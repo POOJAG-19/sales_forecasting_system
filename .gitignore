@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+forecasting-env/
+
+# Mac files
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Saved ML models
+saved_models/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+
+# Temporary files
+*.tmp
